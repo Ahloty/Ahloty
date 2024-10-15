@@ -1,6 +1,11 @@
 # Olá! Eu sou o Hytalo Pereira 🖐️
 
-[![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hytalo-pereira-deva8251/)
+## Sobre me 📖
+Eu comecei a programação há cerca de quatro anos e me formei em Técnico de Informática pela EEEP Lucia Helena Viana Ribeiro, e me encaminhei para a área de UI Design e Programação. Estou interessado em me aventurar na área de criação de jogos.
+
+## Social 📱
+
+[![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hytalopereiradev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/hytal0_19])
 
 ## Tecnologias 👨🏼‍💻
